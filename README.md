@@ -15,3 +15,17 @@ the quarantine attribute, because the binaries are not notarised. Upgrades
 follow `brew upgrade --cask vidpuller`.
 
 Source and release notes: <https://github.com/yilong-musk/vidpuller>.
+
+## feedmesh
+
+Self-hosted RSS bridge for multiple content platforms.
+
+```bash
+brew install --cask yilong-musk/tap/feedmesh
+```
+
+The cask downloads the prebuilt release archive for your platform and drops
+the quarantine attribute, because the binaries are not notarised. Upgrades
+follow `brew upgrade --cask feedmesh`.
+
+Source and release notes: <https://github.com/yilong-musk/feedmesh>.
